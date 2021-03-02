@@ -1,9 +1,11 @@
-/*   Created by IntelliJ IDEA.
+package linkedlist;/*   Created by IntelliJ IDEA.
  *   Author: Mudit Shukla
  *   Date: 01-03-2021
  *   Time: 19:24
- *   File: Node.java
+ *   File: linkedlist.Node.java
  */
+
+import employee.Employee;
 
 public class Node {
 
